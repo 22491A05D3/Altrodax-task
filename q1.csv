@@ -1,5 +1,6 @@
-   college_name                | avg_days_to_reach_level50 
--------------------------------------------+---------------------------
- pace Engineering College                  |                     34.00
- QIS College of Engineering and technology |                     50.00
-(2 rows)
+ college_name | students_reached_level50 | avg_days_to_level50 
+--------------+--------------------------+---------------------
+ IIT Bombay   |                        1 |               22.08
+ NIT Trichy   |                        1 |               27.08
+ IIT Delhi    |                        1 |               36.25
+(3 rows)
