@@ -1,7 +1,8 @@
-college_name                | total_students | placed_students | placement_rate_percentage 
--------------------------------------------+----------------+-----------------+---------------------------
- pace Engineering College                  |              2 |               2 |                    100.00
- Rise engineering college                  |              1 |               1 |                    100.00
- QIS College of Engineering and technology |              2 |               1 |                     50.00
- vignan university                         |              1 |               0 |                      0.00
-(4 rows)
+ college_name | placement_rate 
+--------------+----------------
+ IIT Bombay   |         0.9200
+ IIT Delhi    |         0.9100
+ BITS Pilani  |         0.8800
+ NIT Trichy   |         0.8500
+ VIT Vellore  |         0.7800
+(5 rows)
