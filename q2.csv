@@ -1,4 +1,4 @@
-skill_name | total_students | failed_students | fail_rate_percentage 
-------------+----------------+-----------------+----------------------
- Python     |              1 |               1 |               100.00
+   track_name    | total_students | dropped_students | fail_rate 
+-----------------+----------------+------------------+-----------
+ Web Development |              2 |                2 |    100.00
 (1 row)
